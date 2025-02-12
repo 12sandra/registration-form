@@ -37,8 +37,8 @@ This project is a simple registration form that includes various input fields fo
 5. Accept the terms and conditions.
 6. Submit the form.
 
-## License
-This project is open-source and available under the [MIT License](LICENSE).
+## Demo
+https://12sandra.github.io/registration-form/
 
 ## Contributing
 If you'd like to contribute, feel free to fork the repository and submit a pull request.
