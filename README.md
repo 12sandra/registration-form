@@ -21,7 +21,7 @@ This project is a simple registration form that includes various input fields fo
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/simple-registration-form.git
+   git clone https://github.com/12sandra/registration-form.git
    ```
 2. Navigate to the project directory:
    ```bash
